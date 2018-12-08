@@ -6,8 +6,7 @@
   "author": "Adam Soffer",
   "scripts": {
     "build": "babel src --out-dir dist",
-    "prepare": "npm run build",
-    "precommit": "lint-staged"
+    "prepare": "npm run build"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.0",
@@ -45,5 +44,10 @@
     "hubspot-api",
     "hubspot-form"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
 }
