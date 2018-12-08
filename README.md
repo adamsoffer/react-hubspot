@@ -1,4 +1,4 @@
-# React Hubspot
+# React Hubspot [![Build Status](https://travis-ci.org/adamsoffer/react-hubspot.svg?branch=master)](https://travis-ci.org/adamsoffer/react-hubspot)
 
 A collection of React hooks for interacting with Hubspot APIs
 
