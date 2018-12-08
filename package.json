@@ -7,8 +7,7 @@
   "scripts": {
     "build": "babel src --out-dir dist",
     "prepare": "npm run build",
-    "precommit": "lint-staged",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "precommit": "lint-staged"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.0",
