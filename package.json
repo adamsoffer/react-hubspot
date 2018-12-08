@@ -1,6 +1,6 @@
 {
   "name": "react-hubspot",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A collection of React hooks for interacting with Hubspot APIs",
   "main": "./dist/index.js",
   "author": "Adam Soffer",
@@ -36,9 +36,14 @@
     "url": "git@github.com:adamsoffer/react-hubspot.git"
   },
   "keywords": [
-    "hubspot",
     "react",
-    "react-hooks"
+    "react-hooks",
+    "react-hook",
+    "form",
+    "forms",
+    "hubspot",
+    "hubspot-api",
+    "hubspot-form"
   ],
   "license": "ISC"
 }
