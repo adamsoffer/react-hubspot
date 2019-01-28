@@ -1,6 +1,6 @@
 {
   "name": "react-hubspot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A collection of React hooks for interacting with Hubspot APIs",
   "main": "./dist/index.js",
   "author": "Adam Soffer",
